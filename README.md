@@ -1,11 +1,36 @@
-- 👋 Hi, I’m @sammnuakoh
-- 👀 I’m interested in data analytics and cybersecurity projects in industrial engineering
-- 🌱 I’m currently learning digital factory and operational excellence in munich which focuses on the IT, business and process perspectives of industrial engineering 4.0
-- 💞️ I’m looking to collaborate on fun novel projects
-- 📫 You can email me @ samuelknuakoh@gmail.com
-- ⚡ Fun fact: I'm super passionate about machine learning healthcare systems and i sit on the panel of the Stanford Biomedical Informatics Research Colloquia hosted weekly by Assistant Professor Jonathan H. Chen
+# Operational Excellence Industrial Engineer
 
-<!---
-sammnuakoh/sammnuakoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Technical Skills: Lean Six Sigma, Scrum, R, Python, Linux (Metasploit, Wireshark, Password Recovery and File Hashes, Scanning Ports and Utilizing SSH, SQL Injection), MS Office Suite, Celonis, SolidWorks, Engineering Publishing
+
+## Education						       		
+- MASc., Digitale Fabrik und Operational Excellence	| Hochschule der Bayerischen Wirtschaft (_March 2025_)
+- MPhil., Computer Engineering | Kwame Nkrumah University of Science and Technology (_September 2023_) *			        		
+- BSc., Biomedical Engineering | Kwame Nkrumah University of Science and Technology (_May 2020_)
+
+## Work Experience
+**Sales Assistant @ Primark München (_December 2023 - March 2024_)**
+- Supervised customer queues on the sales floor to maintain order and prevent overcrowding.
+- Attached price tags on new deliveries ahead of store opening to streamline customer experience.
+
+**Panel Member @ Stanford School of Medicine (_January 2021 - Present_)**
+- Represented Ghana and West Africa during data collection, processing, and analysis for Covid-19 prediction models.
+- Wrote a proposal for a Machine Learning-based Order Recommender System Decision Support on Simulated Clinical Cases in Ghanaian Hospitals.
+
+## Projects
+### Exploratory Data Analysis on USArrests.csv
+[Code](https://github.com/sammnuakoh/USA-arrests-)
+
+Perfomed Exploratory Data Analysis on USArrests.csv file. The goal of the project like all data analytics projects is to provide return on investment. This return would be a predictive model for law enforcement dispatches, new safety policies in states, and informative models for investors in the real estate development sector. 
+
+### Unmanned Aerial Vehicles for Vaccine and Blood transportation between Urban Centres and Rural Areas in Ghana
+[Publication](https://www.researchgate.net/publication/355145841_Unmanned_Aerial_Vehicles_for_Vaccine_and_Blood_transportation_between_Urban_Centres_and_Rural_Areas_in_Ghana)
+
+Published a scientific proposal to explore the use of drones to dispatch vaccines and blood samples between urban and rural centers in Ghana, supervised by Professor William Holderbaum of the University of Reading’s Department of Biomedical Engineering.
+
+### Thermoelectric Cooler for Vaccines
+[Publication](https://www.researchgate.net/publication/355145811_PROJECT_REPORT_THERMOELECTRIC_COOLER_FOR_VACCINES)
+
+50:50 prediction model for the covid pandemic:precision model for developing energy sufficient Peltier refrigerators using **SolidWorks** for storing and transporting vaccines to achieve effective immunization in Africa. 
+
+
+
