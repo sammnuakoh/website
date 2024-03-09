@@ -32,5 +32,9 @@ Published a scientific proposal to explore the use of drones to dispatch vaccine
 
 50:50 prediction model for the covid pandemic:precision model for developing energy sufficient Peltier refrigerators using **SolidWorks** for storing and transporting vaccines to achieve effective immunization in Africa. 
 
-
+## Certificates
+- freeCodeCamp Information Security Developer (_July 2023_)
+- ISACA Cybersecurity Fundamentals Online Review Course (_April 2023_)
+- ISACA Cybersecurity Fundamentals Lab Package (_March 2023_)
+- Ghana National Service Scheme Certificate (_September 2021_) 
 
