@@ -1,21 +1,32 @@
-# Operational Excellence Industrial Engineer
+# Industrial Engineer
 
-#### Technical Skills: Lean Six Sigma, Scrum, R, Python, Linux (Metasploit, Wireshark, Password Recovery and File Hashes, Scanning Ports and Utilizing SSH, SQL Injection), MS Office Suite, Celonis, SolidWorks, Engineering Publishing
+#### Advanced Skills: R, Python, Vue.js, Prompt Engineering, Kali Linux Command Line Interface, MS Excel, MS PowerPoint, LucidCharts, Bill of Materials Optimization, Anaconda
+
+#### Proficient Skills: Large Language Models (LLMs), AWS Sage Maker, Llama2, C++, PHP, SQL, Tableau, SAP MM, FMEA, VAVE, Lean Six Sigma, SolidWorks, Adobe Photoshop Elements, Celonis, Matlab
 
 ## Education						       		
-- MASc., Digitale Fabrik und Operational Excellence	| Hochschule der Bayerischen Wirtschaft (_March 2025_)
-- MPhil., Computer Engineering | Kwame Nkrumah University of Science and Technology (_September 2023_) *			        		
-- BSc., Biomedical Engineering | Kwame Nkrumah University of Science and Technology (_May 2020_)
+- MSc., Digitale Fabrik und Operational Excellence - Hochschule der Bayerischen Wirtschaft (March 2025)           		
+- BSc., Biomedical Engineering - Kwame Nkrumah University of Science and Technology (May 2020)
 
 ## Work Experience
-**Sales Assistant @ Primark München (_December 2023 - March 2024_)**
-- Supervised customer queues on the sales floor to maintain order and prevent overcrowding.
-- Attached price tags on new deliveries ahead of store opening to streamline customer experience.
+**TÜV SÜD, München - Working Student (July 2024 - Present)**
+- Perform firmware engineering and new software image installations on 150 new ADIAControl devices set for rollout in September 2024 using National Instruments MAX.
+- Develop the existing data collection and analysis tools in Microsoft Excel by analyzing the correction factor of 150 ADIAControl devices, testing elevators with all devices and re-analyzing the resulting data for consistency and accuracy.
+- Assist Software Engineer in DevOps to make ADIASystem more robust, yet user friendly for our global experts.
+- Document manual translations using standards for technical phrases and words from German to English for our global lift testing experts.
 
-**Panel Member @ Stanford School of Medicine (_January 2021 - Present_)**
-- Represented Ghana and West Africa during data collection, processing, and analysis for Covid-19 prediction models.
-- Wrote a proposal for a Machine Learning-based Order Recommender System Decision Support on Simulated Clinical Cases in Ghanaian Hospitals.
+**SpectX GmbH, München - Co-founder of Startup (November 2023 - Present)**
+- Design prototype LAMBDA X-ray camera with Medipix3 technology for versatility, photon counting for low-noise operation, 24,000 fps frame rate, and small pixel size for enhanced high-resolution imaging.
+- Craft compelling narratives and value propositions to effectively communicate the vision, mission, and unique selling points of the startup’s solutions.
+- Spearhead pitch presentations, showcasing innovative technology and market potential to investors, stakeholders, and strategic partners.
 
+**Openers.app, Arizona - Business Capability Specialistist (August 2023 - Present)**
+- Streamline comprehensive business plan detailing timeline for software implementation procedure and a business capability plan using data analytics and KPIs for future forecasting of the tech startup.
+- Shipped Beta version using TestFlight on iOS Appstore for user testing in January 2024, meeting scheduled implementation timeline. Increased beta testers by 300% in 5 months.
+
+**Stanford Biomedical Informatics Research Colloquia - Panel Member (December 2020 - January 2022)**
+- As a panelist representing the underrepresented Sub-Saharan‬ African researchers, I presented two major proposals; A Machine Learning-based Order‬ Recommender System Decision Support on Simulated Clinical Cases and Unmanned Aerial‬ Vehicles for Vaccine and Blood transportation between Urban Centres and Rural Areas in‬ Ghana.‬
+‭
 ## Projects
 ### Exploratory Data Analysis on USArrests.csv
 [Code](https://github.com/sammnuakoh/USA-arrests-)
@@ -30,11 +41,19 @@ Published a scientific proposal to explore the use of drones to dispatch vaccine
 ### Thermoelectric Cooler for Vaccines
 [Publication](https://www.researchgate.net/publication/355145811_PROJECT_REPORT_THERMOELECTRIC_COOLER_FOR_VACCINES)
 
-50:50 prediction model for the covid pandemic:precision model for developing energy sufficient Peltier refrigerators using **SolidWorks** for storing and transporting vaccines to achieve effective immunization in Africa. 
+50:50 prediction model for the covid pandemic:design model for developing energy sufficient Peltier refrigerators using **SolidWorks** for storing and transporting vaccines to achieve effective immunization in Africa. 
 
 ## Certificates
-- freeCodeCamp Information Security Developer (_July 2023_)
-- ISACA Cybersecurity Fundamentals Online Review Course (_April 2023_)
-- ISACA Cybersecurity Fundamentals Lab Package (_March 2023_)
-- Ghana National Service Scheme Certificate (_September 2021_) 
+- Building Large Language Models on AWS - **AWS Training and Certification**  
+- Foundations of Prompt Engineering - **AWS Training and Certification**
+- Power BI Job Simulation – **PwC Switzerland**
+- Machine Learning with Python Developer Certificate – **FreeCodeCamp**
+- Software Engineering Job Simulation (Stock Analysis) – **JP Morgan**
+- Software Engineering Job Simulation (Cryptography) – **Goldman Sachs**
+- Explore Digital Technology Job Simulation – **GE Aerospace**
+- Explore Supply Chain Job Simulation – **GE Aerospace**
+- Data Analytics Essentials – **Cisco Networking Academy**
+- Python Essentials 1 – **Cisco Networking Academy**
+- Cybersecurity Fundamentals Lab Package – **ISACA**
+- Cybersecurity Fundamentals Online Review Course – **ISACA**
 
